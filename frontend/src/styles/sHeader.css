@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0; 
+  }
+  header{
+      width: 100%;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  body{
+    background-color: #3A8F79;
+  }

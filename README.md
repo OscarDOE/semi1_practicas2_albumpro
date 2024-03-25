@@ -1,2 +1,2 @@
-# semi1_practicas2_albumpro
-FaunaDEX Pro. Album que agarrará imágenes y con uso de IA las pondrá en algun album en específico.
+# semi1_practica1_album
+Práctica 1 de Seminario de Sistemas - Álbum de fotos
